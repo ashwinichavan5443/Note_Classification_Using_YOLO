@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>notes77.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\notes_classification\images\notes77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1592</width>
+		<height>729</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten_rupees_note</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>1592</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>
